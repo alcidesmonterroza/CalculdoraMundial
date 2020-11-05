@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculdoraMundial</string>
+
+    <string name="sum">suma</string>
+    <string name="res">resta</string>
+    <string name="mul">multiplicacion</string>
+    <string name="div">division</string>
+    <string name="cal">calcular</string>
+    <string name="sal">resultado:</string>
+</resources>

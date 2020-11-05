@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">World Calculator</string>
+
+    <string name="sum">sum</string>
+    <string name="res">subtraction</string>
+    <string name="mul">multiplication</string>
+    <string name="div">division</string>
+    <string name="cal">calc</string>
+    <string name="sal">result:</string>
+</resources>
